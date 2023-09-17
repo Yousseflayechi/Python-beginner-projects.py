@@ -1,3 +1,3 @@
 # Python-beginner-projects
 A Beginner Level Python Projects  
-$ git clone https://github.com/<yousseflayechi>/<projectname>
+$ git clone https://github.com/yousseflayechi/Python-beginner-projects
